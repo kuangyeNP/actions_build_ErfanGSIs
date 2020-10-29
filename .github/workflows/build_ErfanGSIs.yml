@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://jaist.dl.sourceforge.net/project/xtended/raphael/Xtended-XQ-v8.0-raphael-OFFICIAL-20200416.zip
-  ROM_NAME: XtentedUI
+  ROM_NAME: generic
   TZ: Asia/Shanghai
 
 jobs:
